@@ -1,0 +1,4 @@
+Name: debug pipe
+Description: debug pipes step by step
+Binding: pdbg_addin
+interactive: false
